@@ -1,5 +1,5 @@
 {
-  "name": "svg-to-pdfkit",
+  "name": "@robotikzz/svg-to-pdfkit",
   "version": "0.1.8",
   "description": "Insert SVG into a PDF document created with PDFKit",
   "author": "alafr",
@@ -8,6 +8,6 @@
   "bugs": "https://github.com/alafr/SVG-to-PDFKit/issues",
   "main": "source.js",
   "dependencies": {
-    "pdfkit": ">=0.8.1"
+    "@robotikzz/pdfkit": ">=0.8.1"
   }
 }
